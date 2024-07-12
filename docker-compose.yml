@@ -1,0 +1,34 @@
+version: "3.8"
+
+services:
+  flask-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - FLASK_APP=clientes.app:create_app
+      - FLASK_RUN_HOST=0.0.0.0
+      - FLASK_ENV=development
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+
+  fastapi-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn jwt_service.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: clientes
+    ports:
+      - "5432:5432"
