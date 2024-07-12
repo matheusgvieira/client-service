@@ -1,0 +1,562 @@
+[
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_simplelogin",
+        "description": "flask_simplelogin",
+        "isExtraImport": true,
+        "detail": "flask_simplelogin",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_simplelogin",
+        "description": "flask_simplelogin",
+        "isExtraImport": true,
+        "detail": "flask_simplelogin",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleLogin",
+        "importPath": "flask_simplelogin",
+        "description": "flask_simplelogin",
+        "isExtraImport": true,
+        "detail": "flask_simplelogin",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "importPath": "client_service.models",
+        "description": "client_service.models",
+        "isExtraImport": true,
+        "detail": "client_service.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "client_service.models",
+        "description": "client_service.models",
+        "isExtraImport": true,
+        "detail": "client_service.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "client_service.models",
+        "description": "client_service.models",
+        "isExtraImport": true,
+        "detail": "client_service.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "client_service.models",
+        "description": "client_service.models",
+        "isExtraImport": true,
+        "detail": "client_service.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "client_service.models",
+        "description": "client_service.models",
+        "isExtraImport": true,
+        "detail": "client_service.models",
+        "documentation": {}
+    },
+    {
+        "label": "Admin",
+        "importPath": "flask_admin",
+        "description": "flask_admin",
+        "isExtraImport": true,
+        "detail": "flask_admin",
+        "documentation": {}
+    },
+    {
+        "label": "AdminIndexView",
+        "importPath": "flask_admin.base",
+        "description": "flask_admin.base",
+        "isExtraImport": true,
+        "detail": "flask_admin.base",
+        "documentation": {}
+    },
+    {
+        "label": "sqla",
+        "importPath": "flask_admin.contrib",
+        "description": "flask_admin.contrib",
+        "isExtraImport": true,
+        "detail": "flask_admin.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "client_service.ext.database",
+        "description": "client_service.ext.database",
+        "isExtraImport": true,
+        "detail": "client_service.ext.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "client_service.ext.database",
+        "description": "client_service.ext.database",
+        "isExtraImport": true,
+        "detail": "client_service.ext.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "client_service.ext.database",
+        "description": "client_service.ext.database",
+        "isExtraImport": true,
+        "detail": "client_service.ext.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "client_service.ext.database",
+        "description": "client_service.ext.database",
+        "isExtraImport": true,
+        "detail": "client_service.ext.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "client_service.ext.database",
+        "description": "client_service.ext.database",
+        "isExtraImport": true,
+        "detail": "client_service.ext.database",
+        "documentation": {}
+    },
+    {
+        "label": "click",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "click",
+        "description": "click",
+        "detail": "click",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "importPath": "client_service.ext.auth",
+        "description": "client_service.ext.auth",
+        "isExtraImport": true,
+        "detail": "client_service.ext.auth",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskDynaconf",
+        "importPath": "dynaconf",
+        "description": "dynaconf",
+        "isExtraImport": true,
+        "detail": "dynaconf",
+        "documentation": {}
+    },
+    {
+        "label": "SerializerMixin",
+        "importPath": "sqlalchemy_serializer",
+        "description": "sqlalchemy_serializer",
+        "isExtraImport": true,
+        "detail": "sqlalchemy_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "client_service",
+        "description": "client_service",
+        "isExtraImport": true,
+        "detail": "client_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_app_wsgi",
+        "importPath": "client_service",
+        "description": "client_service",
+        "isExtraImport": true,
+        "detail": "client_service",
+        "documentation": {}
+    },
+    {
+        "label": "populate_db",
+        "importPath": "client_service.ext.commands",
+        "description": "client_service.ext.commands",
+        "isExtraImport": true,
+        "detail": "client_service.ext.commands",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "ClienteResource",
+        "kind": 6,
+        "importPath": "client_service.ext.restapi.resources",
+        "description": "client_service.ext.restapi.resources",
+        "peekOfCode": "class ClienteResource(Resource):\n    def get(self):\n        clientes = Cliente.query.all() or abort(204)\n        return jsonify({\"clientes\": [cliente.to_dict() for cliente in clientes]})\n    @login_required(basic=True, username=\"admin\")\n    def post(self):\n        data = request.json\n        client_id = str(uuid.uuid4())\n        client_secret = str(uuid.uuid4())\n        cliente = Cliente(",
+        "detail": "client_service.ext.restapi.resources",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "kind": 6,
+        "importPath": "client_service.ext.admin",
+        "description": "client_service.ext.admin",
+        "peekOfCode": "class UserAdmin(sqla.ModelView):\n    column_list = [\"username\"]\n    can_edit = False\n    def on_model_change(self, form, model, is_created):\n        model.password = generate_password_hash(model.password)\ndef init_app(app):\n    admin.name = app.config.TITLE\n    admin.template_mode = app.config.FLASK_ADMIN_TEMPLATE_MODE\n    admin.init_app(app)\n    # Add admin page for Product",
+        "detail": "client_service.ext.admin",
+        "documentation": {}
+    },
+    {
+        "label": "init_app",
+        "kind": 2,
+        "importPath": "client_service.ext.admin",
+        "description": "client_service.ext.admin",
+        "peekOfCode": "def init_app(app):\n    admin.name = app.config.TITLE\n    admin.template_mode = app.config.FLASK_ADMIN_TEMPLATE_MODE\n    admin.init_app(app)\n    # Add admin page for Product\n    admin.add_view(sqla.ModelView(Product, db.session))\n    # Add admin page for User\n    admin.add_view(UserAdmin(User, db.session))",
+        "detail": "client_service.ext.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AdminIndexView._handle_view",
+        "kind": 5,
+        "importPath": "client_service.ext.admin",
+        "description": "client_service.ext.admin",
+        "peekOfCode": "AdminIndexView._handle_view = login_required(AdminIndexView._handle_view)\nsqla.ModelView._handle_view = login_required(sqla.ModelView._handle_view)\nadmin = Admin()\nclass UserAdmin(sqla.ModelView):\n    column_list = [\"username\"]\n    can_edit = False\n    def on_model_change(self, form, model, is_created):\n        model.password = generate_password_hash(model.password)\ndef init_app(app):\n    admin.name = app.config.TITLE",
+        "detail": "client_service.ext.admin",
+        "documentation": {}
+    },
+    {
+        "label": "sqla.ModelView._handle_view",
+        "kind": 5,
+        "importPath": "client_service.ext.admin",
+        "description": "client_service.ext.admin",
+        "peekOfCode": "sqla.ModelView._handle_view = login_required(sqla.ModelView._handle_view)\nadmin = Admin()\nclass UserAdmin(sqla.ModelView):\n    column_list = [\"username\"]\n    can_edit = False\n    def on_model_change(self, form, model, is_created):\n        model.password = generate_password_hash(model.password)\ndef init_app(app):\n    admin.name = app.config.TITLE\n    admin.template_mode = app.config.FLASK_ADMIN_TEMPLATE_MODE",
+        "detail": "client_service.ext.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "kind": 5,
+        "importPath": "client_service.ext.admin",
+        "description": "client_service.ext.admin",
+        "peekOfCode": "admin = Admin()\nclass UserAdmin(sqla.ModelView):\n    column_list = [\"username\"]\n    can_edit = False\n    def on_model_change(self, form, model, is_created):\n        model.password = generate_password_hash(model.password)\ndef init_app(app):\n    admin.name = app.config.TITLE\n    admin.template_mode = app.config.FLASK_ADMIN_TEMPLATE_MODE\n    admin.init_app(app)",
+        "detail": "client_service.ext.admin",
+        "documentation": {}
+    },
+    {
+        "label": "verify_login",
+        "kind": 2,
+        "importPath": "client_service.ext.auth",
+        "description": "client_service.ext.auth",
+        "peekOfCode": "def verify_login(user):\n    \"\"\"Validates user login\"\"\"\n    username = user.get(\"username\")\n    password = user.get(\"password\")\n    if not username or not password:\n        return False\n    existing_user = User.query.filter_by(username=username).first()\n    if not existing_user:\n        return False\n    if check_password_hash(existing_user.password, password):",
+        "detail": "client_service.ext.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "client_service.ext.auth",
+        "description": "client_service.ext.auth",
+        "peekOfCode": "def create_user(username, password):\n    \"\"\"Creates a new user\"\"\"\n    if User.query.filter_by(username=username).first():\n        raise RuntimeError(f\"{username} already exists\")\n    user = User(username=username, password=generate_password_hash(password))\n    db.session.add(user)\n    db.session.commit()\n    return user\ndef init_app(app):\n    SimpleLogin(app, login_checker=verify_login)",
+        "detail": "client_service.ext.auth",
+        "documentation": {}
+    },
+    {
+        "label": "init_app",
+        "kind": 2,
+        "importPath": "client_service.ext.auth",
+        "description": "client_service.ext.auth",
+        "peekOfCode": "def init_app(app):\n    SimpleLogin(app, login_checker=verify_login)",
+        "detail": "client_service.ext.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_db",
+        "kind": 2,
+        "importPath": "client_service.ext.commands",
+        "description": "client_service.ext.commands",
+        "peekOfCode": "def create_db():\n    \"\"\"Creates database\"\"\"\n    db.create_all()\ndef drop_db():\n    \"\"\"Cleans database\"\"\"\n    db.drop_all()\ndef populate_db():\n    \"\"\"Populate db with sample data\"\"\"\n    data = [\n        Product(id=1, name=\"Ciabatta\", price=\"10\", description=\"Italian Bread\"),",
+        "detail": "client_service.ext.commands",
+        "documentation": {}
+    },
+    {
+        "label": "drop_db",
+        "kind": 2,
+        "importPath": "client_service.ext.commands",
+        "description": "client_service.ext.commands",
+        "peekOfCode": "def drop_db():\n    \"\"\"Cleans database\"\"\"\n    db.drop_all()\ndef populate_db():\n    \"\"\"Populate db with sample data\"\"\"\n    data = [\n        Product(id=1, name=\"Ciabatta\", price=\"10\", description=\"Italian Bread\"),\n        Product(id=2, name=\"Baguete\", price=\"15\", description=\"French Bread\"),\n        Product(id=3, name=\"Pretzel\", price=\"20\", description=\"German Bread\"),\n    ]",
+        "detail": "client_service.ext.commands",
+        "documentation": {}
+    },
+    {
+        "label": "populate_db",
+        "kind": 2,
+        "importPath": "client_service.ext.commands",
+        "description": "client_service.ext.commands",
+        "peekOfCode": "def populate_db():\n    \"\"\"Populate db with sample data\"\"\"\n    data = [\n        Product(id=1, name=\"Ciabatta\", price=\"10\", description=\"Italian Bread\"),\n        Product(id=2, name=\"Baguete\", price=\"15\", description=\"French Bread\"),\n        Product(id=3, name=\"Pretzel\", price=\"20\", description=\"German Bread\"),\n    ]\n    db.session.bulk_save_objects(data)\n    db.session.commit()\n    return Product.query.all()",
+        "detail": "client_service.ext.commands",
+        "documentation": {}
+    },
+    {
+        "label": "init_app",
+        "kind": 2,
+        "importPath": "client_service.ext.commands",
+        "description": "client_service.ext.commands",
+        "peekOfCode": "def init_app(app):\n    # add multiple commands in a bulk\n    for command in [create_db, drop_db, populate_db]:\n        app.cli.add_command(app.cli.command()(command))\n    # add a single command\n    @app.cli.command()\n    @click.option(\"--username\", \"-u\")\n    @click.option(\"--password\", \"-p\")\n    def add_user(username, password):\n        \"\"\"Adds a new user to the database\"\"\"",
+        "detail": "client_service.ext.commands",
+        "documentation": {}
+    },
+    {
+        "label": "init_app",
+        "kind": 2,
+        "importPath": "client_service.ext.database",
+        "description": "client_service.ext.database",
+        "peekOfCode": "def init_app(app):\n    db.init_app(app)",
+        "detail": "client_service.ext.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "client_service.ext.database",
+        "description": "client_service.ext.database",
+        "peekOfCode": "db = SQLAlchemy()\ndef init_app(app):\n    db.init_app(app)",
+        "detail": "client_service.ext.database",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "client_service.base",
+        "description": "client_service.base",
+        "peekOfCode": "def create_app(**config):\n    app = Flask(__name__)\n    FlaskDynaconf(app)  # config managed by Dynaconf\n    app.config.load_extensions(\"EXTENSIONS\")  # Load extensions from settings.toml\n    app.config.update(config)  # Override with passed config\n    return app\ndef create_app_wsgi():\n    # workaround for Flask issue\n    # that doesn't allow **config\n    # to be passed to create_app",
+        "detail": "client_service.base",
+        "documentation": {}
+    },
+    {
+        "label": "create_app_wsgi",
+        "kind": 2,
+        "importPath": "client_service.base",
+        "description": "client_service.base",
+        "peekOfCode": "def create_app_wsgi():\n    # workaround for Flask issue\n    # that doesn't allow **config\n    # to be passed to create_app\n    # https://github.com/pallets/flask/issues/4170\n    app = create_app()\n    return app",
+        "detail": "client_service.base",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "kind": 6,
+        "importPath": "client_service.models",
+        "description": "client_service.models",
+        "peekOfCode": "class Cliente(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    nome_completo = db.Column(db.String(120), nullable=False)\n    endereco = db.Column(db.String(120), nullable=False)\n    email = db.Column(db.String(120), unique=True, nullable=False)\n    client_id = db.Column(db.String(60), unique=True, nullable=False)\n    client_secret = db.Column(db.String(60), unique=True, nullable=False)\n    data_inclusao = db.Column(db.DateTime, default=datetime.utcnow)\nclass User(db.Model, SerializerMixin):\n    id = db.Column(db.Integer, primary_key=True)",
+        "detail": "client_service.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "client_service.models",
+        "description": "client_service.models",
+        "peekOfCode": "class User(db.Model, SerializerMixin):\n    id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(140))\n    password = db.Column(db.String(512))",
+        "detail": "client_service.models",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def app():\n    app = create_app(FORCE_ENV_FOR_DYNACONF=\"testing\")\n    with app.app_context():\n        db.create_all(app=app)\n        yield app\n        db.drop_all(app=app)\n@pytest.fixture(scope=\"session\")\ndef clientes(app):\n    with app.app_context():\n        return populate_db()",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "clientes",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def clientes(app):\n    with app.app_context():\n        return populate_db()\n# each test runs on cwd to its temp dir\n@pytest.fixture(autouse=True)\ndef go_to_tmpdir(request):\n    # Get the fixture dynamically by its name.\n    tmpdir = request.getfixturevalue(\"tmpdir\")\n    # ensure local test created packages can be imported\n    sys.path.insert(0, str(tmpdir))",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "go_to_tmpdir",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def go_to_tmpdir(request):\n    # Get the fixture dynamically by its name.\n    tmpdir = request.getfixturevalue(\"tmpdir\")\n    # ensure local test created packages can be imported\n    sys.path.insert(0, str(tmpdir))\n    # Chdir only for the duration of the test.\n    with tmpdir.as_cwd():\n        yield",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "test_clientes_get_all",
+        "kind": 2,
+        "importPath": "tests.test_api",
+        "description": "tests.test_api",
+        "peekOfCode": "def test_clientes_get_all(client, clientes):  # Arrange\n    \"\"\"Test get all clientes\"\"\"\n    # Act\n    response = client.get(\"/api/v1/cliente/\")\n    # Assert\n    assert response.status_code == 200\n    data = response.json[\"cliente\"]\n    assert len(data) == 3\n    for cliente in clientes:\n        assert cliente.id in [item[\"id\"] for item in data]",
+        "detail": "tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "kind": 2,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "def read(*paths, **kwargs):\n    \"\"\"Read the contents of a text file safely.\n    >>> read(\"client_service\", \"VERSION\")\n    '0.1.0'\n    >>> read(\"README.md\")\n    ...\n    \"\"\"\n    content = \"\"\n    with io.open(\n        os.path.join(os.path.dirname(__file__), *paths),",
+        "detail": "setup",
+        "documentation": {}
+    },
+    {
+        "label": "read_requirements",
+        "kind": 2,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "def read_requirements(path):\n    return [\n        line.strip()\n        for line in read(path).split(\"\\n\")\n        if not line.startswith(('\"', \"#\", \"-\", \"git+\"))\n    ]\nsetup(\n    name=\"client_service\",\n    version=read(\"client_service\", \"VERSION\"),\n    description=\"Client API Flask\",",
+        "detail": "setup",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "wsgi",
+        "description": "wsgi",
+        "peekOfCode": "app = application = create_app_wsgi()  # noqa",
+        "detail": "wsgi",
+        "documentation": {}
+    }
+]
