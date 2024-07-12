@@ -5,8 +5,8 @@
 ### 1. Clone o repositório
 
 ```sh
-git clone <URL do repositório>
-cd clientes-app
+git clone https://github.com/matheusgvieira/client-service.git
+cd client-service
 ```
 
 ## 2. Construa e execute os contêineres Docker
