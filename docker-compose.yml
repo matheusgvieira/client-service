@@ -20,7 +20,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    command: uvicorn jwt_service.main:app --host 0.0.0.0 --port 8000
+    command: uvicorn jwt_generator.main:app --host 0.0.0.0 --port 8000
     ports:
       - "8000:8000"
 
